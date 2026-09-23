@@ -1,3 +1,7 @@
+<img width="400" height="400" alt="133052465" src="https://github.com/user-attachments/assets/24925f7c-53b1-459d-9310-7ad4cd0a5015" />
+
+
+
 # system-prompt-dumper
 
 Passive system prompt extraction via mitmproxy. Intercept, analyze, and verify API traffic from OpenAI, Google Gemini, Alibaba Qwen, and Anthropic — zero additional API cost, no trust required.
