@@ -1,4 +1,3 @@
-<img width="400" height="400" alt="133052465" src="https://github.com/user-attachments/assets/928c9b8c-5592-404a-b8dc-d88ad686eb88" />
 
 # system-prompt-dumper
 
