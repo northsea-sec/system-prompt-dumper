@@ -1,6 +1,4 @@
-<img width="400" height="400" alt="133052465" src="https://github.com/user-attachments/assets/24925f7c-53b1-459d-9310-7ad4cd0a5015" />
-
-
+<img width="400" height="400" alt="133052465" src="https://github.com/user-attachments/assets/928c9b8c-5592-404a-b8dc-d88ad686eb88" />
 
 # system-prompt-dumper
 
