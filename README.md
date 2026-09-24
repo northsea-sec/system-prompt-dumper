@@ -1,4 +1,6 @@
-*** HowTo GUIDE on how to dump system prompt. disclaimer: download mitm proxy from original source only, thank you. ***
+*** HowTo GUIDE on how to dump system prompt. 
+
+disclaimer: download mitm proxy from original source only, thank you. ***
 
 
 # system-prompt-dumper
